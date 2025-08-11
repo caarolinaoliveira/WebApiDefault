@@ -120,7 +120,6 @@ Quando temos um tipo complexo (ex Produto) não é preciso declarar que é FromB
 # Formatadores de Response Personalizado 
 BaseController: O BaseController serve como uma classe base para outros controllers na API. Ele centraliza funcionalidades comuns, como o método Respond, que padroniza as respostas da API:
 
-# Analisadores e Convenções 
 
 <img width="1888" height="707" alt="image" src="https://github.com/user-attachments/assets/780e3f72-3c0e-4950-a9aa-4744aec3e6bd" />
 
